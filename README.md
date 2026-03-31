@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning and Participating in Events
-- 🔭 Building: AI-based Lost & Found System  
-- 🎯 Goal: Crack product-based companies  
+- 🔭 Building: AI-based Lost & Found System 
 
 ---
 
