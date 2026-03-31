@@ -1,40 +1,56 @@
-# 👋 Hi, I'm Praveen R
+<h1 align="left">Hi 👋 I'm Praveen R</h1>
 
-🎓 CSE Student from Chennai  
-💻 Full Stack Developer | 🤖 ML Enthusiast  
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning and Participating in Events
-- 🔭 Building: AI-based Lost & Found System 
+<p align="left">
+Passionate about building real-world applications, exploring new technologies, and continuously growing through collaboration and innovation.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Java | Python | JavaScript  
-- 🌐 React.js | HTML | CSS  
-- 🔙 Node.js | Flask  
-- ☁️ Azure  
-- 🤖 TensorFlow  
+<h2 align="left">🚀 About Me</h2>
+
+<p align="left">
+✨ Passionate about building real-world applications <br>
+📚 Currently learning Data Structures & Algorithms <br>
+🚀 Working on AI-based Lost & Found System <br>
+🎯 Goal: Crack product-based companies <br>
+☁️ Exploring Cloud (Azure)
+</p>
 
 ---
 
-## 📌 Projects
-- 🔍 Lost & Found System (AI Image Matching)  
-- 🧠 Smart Education System
-- 🗳️ RideShield : Navigation System
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=praveen230701244&show_icons=true)
+<h2 align="left">📌 Projects</h2>
 
-![Streak](https://streak-stats.demolab.com?user=praveen230701244)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen230701244)
+<p align="left">
+🎓 EduSphere – Student Activity Management Platform <br>
+🔍 Lost & Found System <br>
+🗳️ Online Voting System <br>
+🏍️ RideShield – Smart Safety & Navigation System <br>
+📄 Document-based RAG Chatbot
+</p>
 
 ---
 
-## 📫 Contact
-📧 230701244@rajalakshmi.edu.in
