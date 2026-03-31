@@ -10,10 +10,7 @@ Passionate about building real-world applications, exploring new technologies, a
 
 <p align="left">
 ✨ Passionate about building real-world applications <br>
-📚 Currently learning Data Structures & Algorithms <br>
 🚀 Working on AI-based Lost & Found System <br>
-🎯 Goal: Crack product-based companies <br>
-☁️ Exploring Cloud (Azure)
 </p>
 
 ---
