@@ -42,7 +42,7 @@ Passionate about building real-world applications, exploring new technologies, a
 <h2 align="left">📌 Projects</h2>
 
 <p align="left">
-🎓 EduSphere – Student Activity Management Platform <br>
+🎓 EduSphere – Centralized Digital Platform for Comprehensive student activity record in HEIs <br>
 🔍 Lost & Found System <br>
 🗳️ Online Voting System <br>
 🏍️ RideShield – Smart Safety & Navigation System <br>
