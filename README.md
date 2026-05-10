@@ -10,7 +10,7 @@ Passionate about building real-world applications, exploring new technologies, a
 
 <p align="left">
 ✨ Passionate about building real-world applications <br>
-🚀 Working on AI-based Lost & Found System <br>
+🚀 Working on Expense System with Azure <br>
 </p>
 
 ---
